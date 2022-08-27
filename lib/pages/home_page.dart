@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
   final int days = 45;
-  final String name = "of Flutter Devlopment";
+  final String name = "days of Flutter Devlopment";
 
   @override
   Widget build(BuildContext context) {
